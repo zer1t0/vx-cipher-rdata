@@ -1,0 +1,43 @@
+bytes:
+  - bytes_file1:0102030405060708feff
+  - bytes_file2:0102030405060708feff
+
+strings:
+  - "string file"
+  - "name_str_file:string file"
+
+wstrings:
+  - "wstring file"
+  - "name_wstr_file:wstring file"
+
+u8s:
+  - u8_file1:42
+  - u8_file2:42
+  
+u16s:
+  - u16_file1:42
+  - u16_file2:42
+
+u32s:
+  - u32_file1:42
+  - u32_file2:42
+
+u64s:
+  - u64_file1:42
+  - u64_file2:42
+
+i8s:
+  - i8_file1:-42
+  - i8_file2:-42
+
+i16s:
+  - i16_file1:-42
+  - i16_file2:-42
+
+i32s:
+  - i32_file1:-42
+  - i32_file2:-42
+
+i64s:
+  - i64_file1:-42
+  - i64_file2:-42
